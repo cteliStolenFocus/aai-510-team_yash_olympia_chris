@@ -58,3 +58,6 @@
 - Completed prototyping
 - Working towards final submission
 
+# 06/22/2023
+- Week-7 split up tasking for Business presentation, Video Presentation and final project
+
